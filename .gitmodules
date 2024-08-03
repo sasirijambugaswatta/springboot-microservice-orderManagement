@@ -1,0 +1,18 @@
+[submodule "msproj2-product-service"]
+	path = msproj2-product-service
+	url = https://github.com/sasiriJ/msproj2-product-service.git
+[submodule "msproj2-order-service"]
+	path = msproj2-order-service
+	url = https://github.com/sasiriJ/msproj2-order-service.git
+[submodule "msproj2-service-frontend-angular"]
+	path = msproj2-service-frontend-angular
+	url = https://github.com/sasiriJ/msproj2-service-frontend-angular.git
+[submodule "msproj2-notifiacation-service"]
+	path = msproj2-notifiacation-service
+	url = https://github.com/sasiriJ/msproj2-notifiacation-service.git
+[submodule "msproj2-inventory-service"]
+	path = msproj2-inventory-service
+	url = https://github.com/sasiriJ/msproj2-inventory-service.git
+[submodule "msproj2-gateway"]
+	path = msproj2-gateway
+	url = https://github.com/sasiriJ/msproj2-gateway.git
