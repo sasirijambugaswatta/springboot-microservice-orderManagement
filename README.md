@@ -5,6 +5,8 @@
 - [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
 - [Prerequisites](#prerequisites)
+- [Service Descriptions](#Service-Descriptions)
+- [Monitoring and Observability](#Monitoring-and-Observability)
 
 ## Project Overview
 
@@ -28,6 +30,7 @@ The project is built using a microservices architecture, with the following comp
 - OpenAPI for API documentation
 - Prometheus for metrics collection
 - Tempo for distributed tracing
+- Loki for log aggregation
 
 ### Gateway Service
 - Spring Cloud Gateway
