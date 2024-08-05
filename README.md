@@ -123,6 +123,4 @@ Implements authentication using OIDC client
 
 ## Testing
 
-Integration tests are implemented using RestAssured and Testcontainers. Run tests using:
-```sh
-mvn test
+Integration tests are implemented using RestAssured and Testcontainers.
